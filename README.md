@@ -1,7 +1,5 @@
-Higuys, im blitz
+Higuys, im blitz/lightning
 
-I program in python mainly
-
-I create discord tools
+I mainly program in python
 
 Byeguys
