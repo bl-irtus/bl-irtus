@@ -1,5 +1,8 @@
 Higuys, im blitz/lightning
 
-I mainly program in python
+Languages I work in:
+  Python
+
+I mainly code Discord tools
 
 Byeguys
